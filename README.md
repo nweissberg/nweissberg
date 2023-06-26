@@ -32,8 +32,6 @@ Here are some notable projects I've worked on:
 2. **AR Miniature**: Description of project B and its features. [AR APP](https://casinha3d.web.app/) 🧊
 3. **Video Reel**: Description of project C and its features. [YouTube](https://www.youtube.com/watch?v=Vqe4LSGmwOg) 🎞️
 
-For a complete list of my projects, please visit [my portfolio](https://nyco3d.com). 🎯
-
 ## Get in Touch 🖖
 
 I'm always open to new opportunities, collaborations, and connecting with fellow developers and professionals. Feel free to reach out to me through the following channels:
