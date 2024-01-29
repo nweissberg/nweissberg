@@ -9,7 +9,7 @@ In addition to my technical skills, I bring a diverse background to my work. I h
 ## Skills 🧠
 
 - 🌐 HTML / CSS / Javascript / Typescript
-- 🐍 Python / Tensorflow / OpenCV / MediaPipe
+- 🐍 Python / Tensorflow / OpenCV 
 - 🚀 Svelte / React / Node / Next
 - 🗃️ Firebase / Azure / SQL
 - 💎 Three / Babylon
