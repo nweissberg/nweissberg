@@ -9,9 +9,10 @@ Beneath the surface of technical proficiency lies a narrative enriched by a back
 ## Technical Proficiency 🧠
 
 - 🌐 HTML / CSS / Javascript / Typescript
-- 🐍 Python / Tensorflow / OpenCV 
+- 🤖 LLMs / Lang Chain / Groq / Hugging Face
+- 🐍 Python / Tkinter / Tensorflow / OpenCV 
 - 🚀 Svelte / React / Node / Next
-- 🗃️ Firebase / Azure / SQL
+- 🗃️ Firebase / Azure / AWS / SQL
 - 💎 3D / Three / Babylon
 
 ## Artistry and Soft Skills 🫀
@@ -39,6 +40,6 @@ I extend an invitation for professional discourse, collaborations, and networkin
 
 - ✉️ Email: [nweissberg@hotmail.com](mailto:nweissberg@hotmail.com)
 - 👨‍💼 LinkedIn: [Nyco3D](https://www.linkedin.com/in/nyco3d)
-- 🎨 Instagram: [@nyco3d](https://www.instagram.com/nycotattoo)
+- 🎨 Instagram: [@nyco3d](https://www.instagram.com/nyco3d)
 
 Eagerly anticipating the prospect of meaningful interactions! 😉
