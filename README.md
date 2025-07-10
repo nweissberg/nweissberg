@@ -2,10 +2,6 @@
 
 Greetings, esteemed visitor, to the repository of my digital craftsmanship. I am a seasoned full-stack developer, proficient in the orchestration of React.js, Node.js, Next.js, and Firebase technologies. My dossier boasts a consistent history of delivering sophisticated, user-centric websites, web applications, and a diverse array of projects. I am committed to creating impactful, immersive experiences that transcend conventional boundaries.
 
-## Profile in Contemplation 🤖
-
-Beneath the surface of technical proficiency lies a narrative enriched by a background as an English educator and tattoo artist. These experiences have endowed me with a unique blend of creativity and precision, contributing to a distinctive perspective that informs my approach to development.
-
 ## Technical Proficiency 🧠
 
 - 🌐 HTML / CSS / Javascript / Typescript
