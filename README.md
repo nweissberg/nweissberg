@@ -30,9 +30,10 @@ In addition to technical acumen, my skill set includes a range of soft skills es
 
 Witness the culmination of my endeavors in these noteworthy projects:
 
-1. **3D Pokédex**: A meticulously crafted compendium of creatures. [WEB APP](https://pokedex-nyco3d.web.app/) 👾
-2. **AR Miniature**: An exploration of the intersection between reality and the digital realm. [AR APP](https://casinha3d.web.app/) 🧊
-3. **Video Reel**: A visual narrative unfolding through a captivating sequence of frames. [YouTube](https://www.youtube.com/watch?v=Vqe4LSGmwOg) 🎞️
+1. **Nexus Mago**: Generate a chat bio from your birthday using AI-powered Astrology. [PWA](https://nexusmago.com)  🔮
+2. **3D Pokédex**: A meticulously crafted compendium of creatures. [WEB APP](https://pokedex-nyco3d.web.app/) 👾
+3. **AR Miniature**: An exploration of the intersection between reality and the digital realm. [AR APP](https://casinha3d.web.app/) 🧊
+4. **Video Reel**: A visual narrative unfolding through a captivating sequence of frames. [YouTube](https://www.youtube.com/watch?v=Vqe4LSGmwOg) 🎞️
 
 ## Audience Engagement 🖖
 
