@@ -5,11 +5,11 @@ Greetings, esteemed visitor, to the repository of my digital craftsmanship. I am
 ## Technical Proficiency 🧠
 
 - 🌐 HTML / CSS / Javascript / Typescript
-- 🤖 LLMs / Lang Chain / Groq / Hugging Face
+- 🤖 LLMs / Lang Chain / Groq / Hugging Face / OpenAI
 - 🐍 Python / Tkinter / Tensorflow / OpenCV 
 - 🚀 Svelte / React / Node / Next
 - 🗃️ Firebase / Azure / AWS / SQL
-- 💎 3D / Three / Babylon
+- 💎 3D / Three / Babylon / GLSL
 
 ## Artistry and Soft Skills 🫀
 
